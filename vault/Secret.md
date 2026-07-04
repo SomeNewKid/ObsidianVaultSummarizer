@@ -1,0 +1,1 @@
+The secret to an [[Agent]] is that it is not just a chatbot, but rather can think autonomously and can use a [[Tool]].
